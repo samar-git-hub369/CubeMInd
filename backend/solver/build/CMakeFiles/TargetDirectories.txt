@@ -1,0 +1,3 @@
+/Users/samargoyal/.gemini/antigravity/scratch/CubeMind/backend/solver/build/CMakeFiles/cubemind_solver.dir
+/Users/samargoyal/.gemini/antigravity/scratch/CubeMind/backend/solver/build/CMakeFiles/edit_cache.dir
+/Users/samargoyal/.gemini/antigravity/scratch/CubeMind/backend/solver/build/CMakeFiles/rebuild_cache.dir
