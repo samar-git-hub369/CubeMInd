@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -bundle -Wl,-headerpad_max_install_names -undefined dynamic_lookup -o cubemind_solver.so CMakeFiles/cubemind_solver.dir/kociemba.cpp.o
